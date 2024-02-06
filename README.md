@@ -1,3 +1,3 @@
-# Jianchao's Website
+# Template
 
-This is the repository for [my website](https://jianchao-li.github.io).
+This is the template for [my website](https://jianchao-li.github.io).
